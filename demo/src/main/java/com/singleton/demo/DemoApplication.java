@@ -1,4 +1,4 @@
-package com.sigleton.demo;
+package com.singleton.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
